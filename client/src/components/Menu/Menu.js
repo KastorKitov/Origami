@@ -16,6 +16,7 @@ function Menu(props){
             <MenuItem>Going to 9</MenuItem>
             <MenuItem>Going to 10</MenuItem>
             <MenuItem>Going to 11</MenuItem>
+            
             </ul>
         </aside>
     );
