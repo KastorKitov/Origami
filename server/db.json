@@ -1,14 +1,24 @@
 {
-    "post": [
+    "posts": [
         {
             "id":1,
-            "content":"Some content here",
+            "content":"Some content hereSome content hereSome content hereSome content hereSome content hereSome content hereSome content hereSome content hereSome content here",
             "Author":"Pesho"
         },
         {
             "id":2,
             "content":"Some content here 2",
             "Author":"Gosho"
+        },
+        {
+            "id":3,
+            "content":"Someegwegwegewgwwwwwwwwwwwwwwwwwwwwwwwwdsgsdgsdgsdgsgsgegewgwegweg",
+            "Author":"Kastor"
+        },
+        {
+            "id":4,
+            "content":"Some ttjtrjrrrrrrhr[pqwdqijdoqwidhqiwudhqwiudhqwuidbgqwuydgqwuydqwgduyqwgduyqwgduqwddegfggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+            "Author":"Ragnar"
         }
     ]
 }
